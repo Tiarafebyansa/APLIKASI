@@ -1,0 +1,35 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\APLIKASI BIMBA ABSENSI 1\bin\Debug\APLIKASI BIMBA ABSENSI 1.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\APLIKASI BIMBA ABSENSI 1\bin\Debug\APLIKASI BIMBA ABSENSI 1.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\APLIKASI BIMBA ABSENSI 1\bin\Debug\APLIKASI BIMBA ABSENSI 1.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI BIMBA ABSENSI 1.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI BIMBA ABSENSI 1.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI BIMBA ABSENSI 1.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI BIMBA ABSENSI 1.pdb
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI BIMBA ABSENSI 1.exe
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI BIMBA ABSENSI 1.xml
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI BIMBA ABSENSI 1.pdb
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\bin\Debug\APLIKASI BIMBA ABSENSI 1.exe
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\bin\Debug\APLIKASI BIMBA ABSENSI 1.pdb
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\bin\Debug\APLIKASI BIMBA ABSENSI 1.xml
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.Form1.resources
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.HalUtama.resources
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.KlsCalistung.resources
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.Resources.resources
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI BIMBA ABSENSI 1.vbproj.GenerateResource.Cache
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\bin\Debug\Interop.Crystal.dll
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\bin\Debug\AxInterop.Crystal.dll
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\Interop.Crystal.dll
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI BIMBA ABSENSI 1.vbproj.ResolveComReference.cache
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.KlsEnglish.resources
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.ABSENGURU.resources
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.INPUTSISWA.resources
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\Interop.AcAuthEntitiesComLib.dll
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\bin\Debug\APLIKASI BIMBA ABSENSI 1.exe.config
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI BIMBA ABSENSI 1.vbprojResolveAssemblyReference.cache
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.Form2.resources
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.LapHarianCal.resources
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.LapHarianEng.resources
+D:\Document\Visual Studio 2010\Projects\APLIKASI BIMBA ABSENSI 1\APLIKASI BIMBA ABSENSI 1\obj\x86\Debug\APLIKASI_BIMBA_ABSENSI_1.LapHarianGuru.resources
